@@ -14,10 +14,10 @@ Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern
    Bereich | Tools & Erfahrung |
  |---|---|
  | **Microsoft 365** | Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate) |
- | **Automatisierung** | Urlaubsantragsprozess mit **Absentify**, Mini-Workflow: automatische E-Mail bei SharePoint-Listeneintrag |
- | **Collaboration-Tools** | Jira, Confluence, Miro, Trello |
+ | **Automatisierung** | Urlaubsantragsprozess mit Absentify, Workflows in SharePoint-Listeneintrag |
+ | **Collaboration-Tools** | M365, Jira, Confluence, Miro, Trello |
  | **Design & Kommunikation** | Canva (u. a. LinkedIn-Content, Bildbearbeitung) |
- | **Weiterbildung** | Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung |
+ | **Weiterbildung** | Microsoft Learn, scrum.org |
 
 **Weiterbildung**
 
