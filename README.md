@@ -10,7 +10,7 @@ Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, 
 
 Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und bringe Menschen beim digitalen Wandel mit.
 
-## 🧰 Digitale Skills & Tools
+ 🧰 Digitale Skills & Tools
    Bereich | Tools & Erfahrung |
  |---|---|
  | **Microsoft 365** | Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate) |
