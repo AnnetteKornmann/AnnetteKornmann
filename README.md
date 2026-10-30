@@ -1,5 +1,7 @@
 👋 Hallo, ich bin Annette!
-
+ Test A | Test B |
+ |---|---|
+ | 1 | 2 |
 Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, digitale Prozesse und moderne Zusammenarbeit. 
 Ich zeige hier, wie man aus einer Assistenzrolle heraus echtes digitales Know-how aufbaut und damit Prozesse, Teams und Zusammenarbeit konkret verbessert.
 
@@ -53,7 +55,7 @@ Vertiefung: Power Automate, Change Management, Prozessoptimierung
 
 📫 Kontakt
 
-LinkedIn
-Microsoft Learn
+LinkedIn: www.linkedin.com/in/annette-kornmann
+Microsoft Learn: learn.microsoft.com/de-de/users/AnnetteKornmann-7380
 
 Dieses Portfolio wächst mit mir – schau gerne wieder vorbei! 🌱
