@@ -6,11 +6,11 @@ Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, 
 "Moderne Arbeitsweisen entstehen nicht im Serverraum – sie entstehen bei den Menschen, die Prozesse jeden Tag leben. Genau dort setze ich an."
 
 
-🚀 Was mich auszeichnet
+🚀 **Was mich auszeichnet**
 
 Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und bringe Menschen beim digitalen Wandel mit.
 
- 🧰 Digitale Skills & Tools
+ 🧰 **Digitale Skills & Tools**
    Bereich | Tools & Erfahrung |
  |---|---|
  | **Microsoft 365** | Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate) |
@@ -24,7 +24,7 @@ Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern
 
 Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung
 
-💼 Projekte & Erfahrung
+💼 **Projekte & Erfahrung**
 
 🚗 App zur Poolcar Buchung 
 
@@ -40,39 +40,35 @@ Mini-Workflow, Eingabe eines Reisekostenbelegs.
 
 Aufbau und Pflege von SharePoint-Seiten als Page Creator bei Kardex.
 
-🎤 Event & Transformation
+🎤 Transformation
 
-Workshop-Organisation für 150 Personen und rechte Hand des Agile Coaches während einer Transformation – Change-Management aus erster Hand.
+mit dem Agile Coach das Management Team vom klassischen zum agilen Arbeiten gebracht – Change-Management und agile Transformation aus erster Hand.
 
 
 
-🎯 Mein Ziel
+🎯 **Mein Ziel**
 
 Auf dem Weg zur M365- bzw. Transformation Consultantin: Ich will Prozesse vereinfachen, Zusammenarbeit effektiver machen und Organisationen durch digitale Transformation begleiten. Dieses Repository dokumentiert meinen Weg – mit Projekten, Learnings und wachsender Expertise.
 
 
 
-📈 Aktuell lerne ich
-
-
+📈 **Aktuell lerne ich**
 
 
 
 Microsoft Learn Learning Paths (laufend, mehrere Badges ✅)
-
-
-
-Vorbereitung auf die AZ-900 Zertifizierung
-
-
+learn.microsoft.com/de-de/users/AnnetteKornmann-7380
 
 Vertiefung: Power Automate, Change Management, Prozessoptimierung
 
+Vorbereitung auf die AZ-900 Zertifizierung
+
+Vorbereitung auf PSM auf scrum.org 
 
 
-📫 Kontakt
+📫 **Kontakt**
 
-LinkedIn
-Microsoft Learn
+LinkedIn: www.linkedin.com/in/annette-kornmann
+Email: annette.kornmann@web.de
 
 Dieses Portfolio wächst mit mir – schau gerne wieder vorbei! 🌱
