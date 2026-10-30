@@ -19,7 +19,7 @@ Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern
  | **Design & Kommunikation** | Canva (u. a. LinkedIn-Content, Bildbearbeitung) |
  | **Weiterbildung** | Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung |
 
-Weiterbildung
+**Weiterbildung**
 
 
 Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung
