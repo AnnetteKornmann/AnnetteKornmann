@@ -10,31 +10,15 @@ Ich zeige hier, wie man aus einer Assistenzrolle heraus echtes digitales Know-ho
 Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. 
 Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und nehme Menschen beim digitalen Wandel mit.
 
+---
 🧰 Digitale Skills & Tools
-
-Bereich
-
-Tools & Erfahrung
-
-Microsoft 365
-
-Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate)
-
-Automatisierung
-
-Urlaubsantragsprozess mit Absentify, Mini-Workflow: automatische E-Mail bei SharePoint-Listeneintrag
-
-Collaboration-Tools
-
-Jira, Confluence, Miro, Trello
-
-Design & Kommunikation
-
-Canva (u. a. LinkedIn-Content, Bildbearbeitung)
-
-Weiterbildung
-
-Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung
+Bereich	Tools & Erfahrung
+Microsoft 365	Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate)
+Automatisierung	Urlaubsantragsprozess mit Absentify, Mini-Workflow: automatische E-Mail bei SharePoint-Listeneintrag
+Collaboration-Tools	Jira, Confluence, Miro, Trello
+Design & Kommunikation	Canva (u. a. LinkedIn-Content, Bildbearbeitung)
+Weiterbildung	Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung
+---
 
 💼 Projekte & Erfahrung
 
