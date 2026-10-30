@@ -1,16 +1,73 @@
-## Hi there 👋
+👋 Hallo, ich bin Anna!
 
-<!--
-**AnnetteKornmann/AnnetteKornmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, digitale Prozesse und moderne Zusammenarbeit. Ich zeige hier, wie man aus einer Assistenzrolle heraus echtes digitales Know-how aufbaut und damit Prozesse, Teams und Zusammenarbeit konkret verbessert.
 
-Here are some ideas to get you started:
+"Moderne Arbeitsweisen entstehen nicht im Serverraum – sie entstehen bei den Menschen, die Prozesse jeden Tag leben. Genau dort setze ich an."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Was mich auszeichnet
+
+Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und bringe Menschen beim digitalen Wandel mit.
+
+🧰 Digitale Skills & Tools
+
+Bereich
+
+Tools & Erfahrung
+
+Microsoft 365
+
+Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate)
+
+Automatisierung
+
+Urlaubsantragsprozess mit Absentify, Mini-Workflow: automatische E-Mail bei SharePoint-Listeneintrag
+
+Collaboration-Tools
+
+Jira, Confluence, Miro, Trello
+
+Design & Kommunikation
+
+Canva (u. a. LinkedIn-Content, Bildbearbeitung)
+
+Weiterbildung
+
+Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung
+
+💼 Projekte & Erfahrung
+
+🗓️ Urlaubsautomatisierung mit Absentify
+
+Automatisierung des Urlaubsantragsprozesses bei MDBM – vom papierbasierten Workflow zu einem digitalen, nachvollziehbaren Prozess.
+
+⚡ SharePoint-Workflow
+
+Mini-Workflow, der bei einem Eintrag in einer SharePoint-Liste automatisch eine E-Mail auslöst – erster Schritt Richtung Power-Automate-Automatisierung.
+
+📚 SharePoint-Seitenaufbau
+
+Aufbau und Pflege von SharePoint-Seiten als Page Creator bei Kardex.
+
+🎤 Event & Transformation
+
+Workshop-Organisation für 150 Personen und rechte Hand des Agile Coaches während einer Transformation – Change-Management aus erster Hand.
+
+🎯 Mein Ziel
+
+Auf dem Weg zur M365- bzw. Transformation Consultantin: Ich will Prozesse vereinfachen, Zusammenarbeit effektiver machen und Organisationen durch digitale Transformation begleiten. Dieses Repository dokumentiert meinen Weg – mit Projekten, Learnings und wachsender Expertise.
+
+📈 Aktuell lerne ich
+
+
+Microsoft Learn Learning Paths (laufend, mehrere Badges ✅)
+
+Vorbereitung auf die AZ-900 Zertifizierung
+
+Vertiefung: Power Automate, Change Management, Prozessoptimierung
+
+📫 Kontakt
+
+LinkedIn
+Microsoft Learn
+
+Dieses Portfolio wächst mit mir – schau gerne wieder vorbei! 🌱
