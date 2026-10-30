@@ -1,12 +1,14 @@
-👋 Hallo, ich bin Anna!
+👋 Hallo, ich bin Annette!
 
-Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, digitale Prozesse und moderne Zusammenarbeit. Ich zeige hier, wie man aus einer Assistenzrolle heraus echtes digitales Know-how aufbaut und damit Prozesse, Teams und Zusammenarbeit konkret verbessert.
+Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, digitale Prozesse und moderne Zusammenarbeit. 
+Ich zeige hier, wie man aus einer Assistenzrolle heraus echtes digitales Know-how aufbaut und damit Prozesse, Teams und Zusammenarbeit konkret verbessert.
 
 "Moderne Arbeitsweisen entstehen nicht im Serverraum – sie entstehen bei den Menschen, die Prozesse jeden Tag leben. Genau dort setze ich an."
 
 🚀 Was mich auszeichnet
 
-Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und bringe Menschen beim digitalen Wandel mit.
+Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. 
+Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und nehme Menschen beim digitalen Wandel mit.
 
 🧰 Digitale Skills & Tools
 
