@@ -14,50 +14,25 @@ Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern
    Bereich | Tools & Erfahrung |
  |---|---|
  | **Microsoft 365** | Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate) |
- | **Automatisierung** | Urlaubsantragsprozess mit Absentify, Workflows in SharePoint-Listeneintrag |
+ | **Automatisierung** | Urlaubsantragsprozess mit Absentify, Poolfahrzeug Buchung mit Power Apps |
  | **Collaboration-Tools** | M365, Jira, Confluence, Miro, Trello |
- | **Design & Kommunikation** | Canva (u. a. LinkedIn-Content, Bildbearbeitung) |
+ | **Transformation** | ein Management Team zum agilen Arbeiten begleitet |
+ | **Design & Kommunikation** | Canva (u. a. LinkedIn-Content, Bildbearbeitung) | 
  | **Weiterbildung** | Microsoft Learn, scrum.org |
-
-**Weiterbildung**
-
-
-Microsoft Learn: mehrere abgeschlossene Learning Paths & Badges, laufende Zertifizierungsvorbereitung
-
-💼 **Projekte & Erfahrung**
-
-🚗 App zur Poolcar Buchung 
-
-🗓️ Urlaubsautomatisierung mit Absentify
-
-Automatisierung des Urlaubsantragsprozesses bei MDBM – vom papierbasierten Workflow zu einem digitalen, nachvollziehbaren Prozess.
-
-⚡ SharePoint-Workflow
-
-Mini-Workflow, Eingabe eines Reisekostenbelegs.
-
-📚 SharePoint-Seitenaufbau
-
-Aufbau und Pflege von SharePoint-Seiten als Page Creator bei Kardex.
-
-🎤 Transformation
-
-mit dem Agile Coach das Management Team vom klassischen zum agilen Arbeiten gebracht – Change-Management und agile Transformation aus erster Hand.
 
 
 
 🎯 **Mein Ziel**
 
-Auf dem Weg zur M365- bzw. Transformation Consultantin: Ich will Prozesse vereinfachen, Zusammenarbeit effektiver machen und Organisationen durch digitale Transformation begleiten. Dieses Repository dokumentiert meinen Weg – mit Projekten, Learnings und wachsender Expertise.
+Auf dem Weg zur M365- bzw. Transformation Consultant: Ich will Prozesse vereinfachen, Zusammenarbeit effektiver machen und Organisationen durch digitale Transformation begleiten. Dieses Repository dokumentiert meinen Weg – mit Projekten, Learnings und wachsender Expertise.
 
 
 
 📈 **Aktuell lerne ich**
 
 
-
 Microsoft Learn Learning Paths (laufend, mehrere Badges ✅)
-learn.microsoft.com/de-de/users/AnnetteKornmann-7380
+learn.microsoft.com/de-de/users/AnnetteKornmann-7380 ✅
 
 Vertiefung: Power Automate, Change Management, Prozessoptimierung
 
