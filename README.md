@@ -1,49 +1,43 @@
-👋 Hallo, ich bin Annette!
+# Annette Kornmann – M365 & Transformation Portfolio
 
-Assistentin der Geschäftsleitung – mit einem klaren Fokus auf Microsoft 365, digitale Prozesse und moderne Zusammenarbeit. Ich zeige hier, wie man aus einer Assistenzrolle heraus echtes digitales Know-how aufbaut und damit Prozesse, Teams und Zusammenarbeit konkret verbessert.
+> *"Moderne Arbeitsweisen entstehen nicht im Serverraum – sie entstehen bei den Menschen, die Prozesse jeden Tag leben."*
 
+Willkommen in meinem Portfolio! Hier dokumentiere ich, wie ich aus einer Assistenzrolle heraus echtes digitales Know-how aufbaue – mit konkreten Projekten rund um Microsoft 365, Prozessautomatisierung und moderne Zusammenarbeit.
 
-"Moderne Arbeitsweisen entstehen nicht im Serverraum – sie entstehen bei den Menschen, die Prozesse jeden Tag leben. Genau dort setze ich an."
+Ich übersetze zwischen Fachbereich, Geschäftsführung und IT – und bringe Menschen beim digitalen Wandel mit.
 
+## 📂 Projekte
 
-🚀 **Was mich auszeichnet**
+| Projekt | Bereich | Status |
+|---|---|---|
+| [Urlaubsantragsprozess mit Absentify](./projects/01-urlaubsantrag-absentify/README.md) | Power Automate, Prozessautomatisierung | 📝 In Dokumentation |
+| [Poolfahrzeug-Buchung mit Power Apps](./projects/02-poolfahrzeug-power-apps/README.md) | Power Apps, Power Automate | 📝 In Dokumentation |
+| [SharePoint-Seiten- & Infrastrukturaufbau](./projects/03-sharepoint-aufbau/README.md) | SharePoint, Information Architecture | 📝 In Dokumentation |
+| [Agile Begleitung eines Management-Teams](./projects/04-agile-transformation/README.md) | Change & Transformation | 📝 In Dokumentation |
 
-Ich bin keine klassische Assistentin: Ich nutze Microsoft 365 nicht nur, sondern gestalte es mit – vom SharePoint-Aufbau bis zur Prozessautomatisierung. Meine Stärke: Ich übersetzte zwischen Fachbereich, Geschäftsführung und IT – und bringe Menschen beim digitalen Wandel mit.
+## 🧰 Skill-Schwerpunkte
 
- 🧰 **Digitale Skills & Tools**
-   Bereich | Tools & Erfahrung |
- |---|---|
- | **Microsoft 365** | Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate) |
- | **Automatisierung** | Urlaubsantragsprozess mit Absentify, Poolfahrzeug Buchung mit Power Apps |
- | **Collaboration-Tools** | M365, Jira, Confluence, Miro, Trello |
- | **Transformation** | ein Management Team zum agilen Arbeiten begleitet |
- | **Design & Kommunikation** | Canva (u. a. LinkedIn-Content, Bildbearbeitung) | 
- | **Weiterbildung** | Microsoft Learn, scrum.org |
+| Bereich | Tools & Erfahrung |
+|---|---|
+| **Microsoft 365** | Teams, SharePoint (Seiten-Aufbau & Verwaltung), Power Platform (Power Automate, Power Apps) |
+| **Automatisierung** | Urlaubsantragsprozess mit Absentify, Poolfahrzeug-Buchung mit Power Apps |
+| **Collaboration** | M365, Jira, Confluence, Miro, Trello |
+| **Transformation** | Management-Team zum agilen Arbeiten begleitet |
+| **Design & Kommunikation** | Canva (u. a. LinkedIn-Content, Bildbearbeitung) |
+| **Weiterbildung** | Microsoft Learn, scrum.org |
 
+## 📈 Aktuelle Lernpfade
 
+- Microsoft Learn (laufend, mehrere Badges) – [Mein Learn-Profil](https://learn.microsoft.com/de-de/users/AnnetteKornmann-7380)
+- Vorbereitung: **AZ-900** (Azure Fundamentals)
+- Vorbereitung: **PSM I** (scrum.org)
+- Vertiefung: Power Automate, Change Management, Prozessoptimierung
 
-🎯 **Mein Ziel**
+## 📫 Kontakt
 
-Auf dem Weg zur M365- bzw. Transformation Consultant: Ich will Prozesse vereinfachen, Zusammenarbeit effektiver machen und Organisationen durch digitale Transformation begleiten. Dieses Repository dokumentiert meinen Weg – mit Projekten, Learnings und wachsender Expertise.
+- LinkedIn: [annette-kornmann](https://www.linkedin.com/in/annette-kornmann)
+- E-Mail: [annette.kornmann@web.de](mailto:annette.kornmann@web.de)
 
+---
 
-
-📈 **Aktuell lerne ich**
-
-
-Microsoft Learn Learning Paths (laufend, mehrere Badges ✅)
-learn.microsoft.com/de-de/users/AnnetteKornmann-7380 ✅
-
-Vertiefung: Power Automate, Change Management, Prozessoptimierung
-
-Vorbereitung auf die AZ-900 Zertifizierung
-
-Vorbereitung auf PSM auf scrum.org 
-
-
-📫 **Kontakt**
-
-LinkedIn: www.linkedin.com/in/annette-kornmann
-Email: annette.kornmann@web.de
-
-Dieses Portfolio wächst mit mir – schau gerne wieder vorbei! 🌱
+*Dieses Portfolio wächst mit mir – schau gerne wieder vorbei!* 🌱
