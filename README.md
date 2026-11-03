@@ -1,6 +1,6 @@
 # Annette Kornmann – M365 & Transformation Portfolio
 
-> *"Moderne Arbeitsweisen entstehen nicht im Serverraum – sie entstehen bei den Menschen, die Prozesse jeden Tag leben."*
+> *"Technische Tiefe kann man dazulernen – aber die menschliche Seite der Transformation nicht. Ich bin die Brücke zwischen Fachbereich, Geschäftsführung und IT: Ich übersetze, motiviere und begleite Menschen durch den digitalen Wandel."*
 
 Willkommen in meinem Portfolio! Hier dokumentiere ich, wie ich aus einer Assistenzrolle heraus echtes digitales Know-how aufbaue – mit konkreten Projekten rund um Microsoft 365, Prozessautomatisierung und moderne Zusammenarbeit.
 
