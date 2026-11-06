@@ -1,8 +1,4 @@
----
 
-## 9️⃣ Projektinhalt (Entwurf): `projects/02-poolfahrzeug-power-apps/README.md`
-
-*Ersetzt das Template mit diesem ausformulierten Entwurf. `[[…]]` = offene Fragen an dich, echte Werte eintragen und Klammern löschen. Die Abschnitte mit Unsicherheiten habe ich bewusst vorsichtig formuliert – prüfe, ob die Annahmen stimmen (z. B. Datenspeicherung in SharePoint-Liste).*
 
 ```markdown
 # Poolfahrzeug-Buchung mit Power Apps
