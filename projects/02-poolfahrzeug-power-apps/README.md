@@ -28,3 +28,43 @@ flowchart LR
     A[Mitarbeiter öffnet App] --> B[Freie Fahrzeuge &amp; Zeiträume sehen]
     B --> C[Buchung mit Zeitraum &amp; Zweck]
     C --> D[SharePoint-Liste: zentrale Datenbasis]
+
+Ergebnis
+
+
+
+
+
+Doppelbuchungen praktisch ausgeschlossen, [[wenn möglich mit Zahl, z. B. „von X Vorfällen pro Monat auf 0"]]
+
+
+
+Buchung dauert [[wenige Sekunden statt bisher ca. X Minuten mit Rückfragen]]
+
+
+
+Entlastung der Verwaltung: keine manuelle Pflege einer zentralen Liste mehr
+
+
+
+Das Team hat eine Lösung im Werkzeugkasten gesehen, die es vorher für „Programmierer-Sachen" hielt – Low-Code demystifiziert
+
+Lessons Learned
+
+
+
+
+
+Low-Code ist ein Türöffner: Ich habe gemerkt, dass Automatisierung keine IT-Abteilung braucht – sondern jemanden, der den Prozess versteht
+
+
+
+Einfach gewinnt: Die App wird genutzt, weil sie mit drei Klicks funktioniert
+
+
+
+Datenpflege zählt: Eine saubere, zentrale Datenbasis (SharePoint) ist das Fundament jeder weiteren Automatisierung
+
+Screenshots
+
+Anonymisierte Screenshots folgen.
