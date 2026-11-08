@@ -18,6 +18,7 @@ Digitale Urlaubsanträge über Absentify in Microsoft Teams:
 1. **Antrag** direkt in Teams gestellt – inkl. automatischer Resturlaubsanzeige
 2. **Genehmigung** durch Führungskraft per Knopfdruck in Outlook
 3. **Automatische Integration**: Genehmigungen landen automatisch in der Urlaubsübersicht – ohne manuelle Nachpflege
+4. **Schnelle Analyse per Ecxel Extrakt**: meine Aufgabe besteht auch darin z.B. Resturlaube and die Lohnabrechnung zu melden, dies ist mit einem Excel Auszug problemlos möglich und flexibel auswertbar 
 
 ```mermaid
 flowchart LR
