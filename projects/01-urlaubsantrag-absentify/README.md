@@ -5,7 +5,7 @@
 
 ## Ausgangslage
 
-Urlaubsanträge liefen vorher manuell: [[z. B. per E-Mail, Papierform, Absprache mit Vorgesetzten]]. Der Prozess war intransparent – niemand hatte auf einen Blick einen Überblick über genehmigte Abwesenheiten, Anträge gingen zwischen Abteilungen verloren, und die Anbindung an Kalender und Urlaubslisten musste per Hand gepflegt werden. Ein früherer Lösungsversuch über eine SharePoint-Liste mit [[Flowmaster / Standard-Workflow]] funktionierte nicht zuverlässig und wurde von den Mitarbeitenden nicht angenommen.
+Urlaubsanträge liefen vorher manuell: [z. B. per E-Mail, Papierform, Absprache mit Vorgesetzten]]. Der Prozess war intransparent – niemand hatte auf einen Blick einen Überblick über genehmigte Abwesenheiten, Anträge gingen zwischen Abteilungen verloren, und die Anbindung an Kalender und Urlaubslisten musste per Hand gepflegt werden. Ein früherer Lösungsversuch über eine SharePoint-Liste mit [[Flowmaster / Standard-Workflow]] funktionierte nicht zuverlässig und wurde von den Mitarbeitenden nicht angenommen.
 
 ## Meine Rolle
 
