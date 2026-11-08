@@ -25,7 +25,7 @@ flowchart TD
     A[Anforderungen aus dem Team] --> B[Informationsarchitektur konzipieren]
     B --> C[Seiten aufbauen: News, Links, Bibliotheken]
     C --> D[Regelmäßige Pflege &amp; Weiterentwicklung]
-    D --> E[Team findet Informationen in Sekunden]
+    D --> E[Team nimmt SharePoint als neue Informationsquelle an]
 ```
 
 ## Ergebnis
