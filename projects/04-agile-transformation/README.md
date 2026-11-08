@@ -21,10 +21,10 @@ Statt Methodenschulung „von oben" haben wir Transformation erfahrbar gemacht:
 
 ```mermaid
 flowchart TD
-    A[Workshop mit 150 Teilnehmenden] --> B[Erfahrung statt Belehrung: agiles Arbeiten live erleben]
-    B --> C[Rituale im Management-Team etablieren]
-    C --> D[Tools einführen: Miro, Confluence, [[Jira]]]
-    D --> E[Transparenz über Themen, Entscheidungen, Fortschritt]
+    A["Workshop mit 150 Teilnehmenden"] --> B["Agiles Arbeiten live erleben"]
+    B --> C["Rituale im Management-Team etablieren"]
+    C --> D["Digitale Tools einführen"]
+    D --> E["Transparenz über Themen und Fortschritt"]
 ```
 
 1. **Erleben vor Einführen:** Der Workshop hat agiles Zusammenarbeit erlebbar gemacht, bevor Rituale im Alltag etabliert wurden
