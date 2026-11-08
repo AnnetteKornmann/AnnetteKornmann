@@ -5,11 +5,11 @@
 
 ## Ausgangslage
 
-Die firmeneigenen Poolfahrzeuge wurden vorher über [[eine Excel-Liste / telefonische Absprachen]] gebucht. Die Folge: niemand wusste zuverlässig, welches Fahrzeug wann frei ist, Doppelbuchungen waren an der Tagesordnung, und die Pflege der Übersicht lag bei einer einzelnen Person. Ein klassischer Fall für eine einfache, digitale Lösung – ohne teure Individualentwicklung.
+Die firmeneigenen Poolfahrzeuge wurden bisher über telefonische Absprachen gebucht und manuell im Team Kalender eingetragen. Die Folge: niemand wusste zuverlässig, welches Fahrzeug wann frei ist, mit einer größeren Mitarbeiterzahl wurden mündliche Absprachen umständlicher und die Pflege der Übersicht lag bei einer einzelnen Person. Ein klassischer Fall für eine einfache, digitale Lösung – ohne teure Individualentwicklung.
 
 ## Meine Rolle
 
-Ich habe die Anforderungen aus dem Alltag gesammelt (Wer bucht? Wie? Welche Infos braucht die Verwaltung?), die App mit **Power Apps** konzipiert und umgesetzt und sie im Team eingeführt – inklusive kurzer Einführung für die Nutzerinnen und Nutzer.
+Ich habe die Anforderungen aus dem Alltag analysiert (Wer bucht? Welches Fahrzeug? Wie lange wird es benötigt? Was ist das Fahrziel bzw. der Grund der Reise), die App mit **Power Apps** konzipiert und umgesetzt und sie im Team eingeführt – inklusive kurzer Einführung für die Nutzerinnen und Nutzer.
 
 ## Lösung
 
