@@ -18,46 +18,28 @@ Digitale Urlaubsanträge über Absentify in Microsoft Teams:
 1. **Antrag** direkt in Teams/Outlook gestellt – inkl. automatischer Resturlaubsanzeige
 2. **Genehmigung** durch Führungskraft per Knopfdruck (mobile und am Desktop)
 3. **Automatische Integration**: Genehmigungen landen automatisch im Kalender und in der Urlaubsübersicht – ohne manuelle Nachpflege
-
+4. Unterstützend habe ich mit **Power Automate** einen Mini-Workflow gebaut, der bei neuen Einträgen in einer SharePoint-Liste automatisch Benachrichtigungs-E-Mails versendet – als Basis für weitere Automatisierungsideen im Team
 
 ```mermaid
 flowchart LR
     A[Mitarbeiter: Antrag in Teams] --> B[Führungskraft: Genehmigung per Klick]
     B --> C[Automatisch: Kalender &amp; Urlaubsliste]
     C --> D[Team: transparente Abwesenheitsübersicht]
+```
 
-Ergebnis
+## Ergebnis
 
+- Vollständig digitaler, transparenter Urlaubsantrag – von der Beantragung bis zur Genehmigung ohne einen einzigen Papierbogen oder Suchlauf
+- Die Prozessschritte, die vorher per Hand gepflegt werden mussten, entfallen komplett: [[ggf. „von ca. X Minuten pro Antrag auf 0"]
+- Höhere Akzeptanz im Team, weil der Prozess dort stattfindet, wo alle ohnehin arbeiten: in Teams
+- Das Scheitern der alten Lösung hat mir gezeigt: Prozessexzellenz ohne Nutzerakzeptanz ist wertlos – genau daran arbeite ich
 
+## Lessons Learned
 
+- **Change beginnt bei der Nutzererfahrung:** Absentify wurde angenommen, weil es in Teams integriert ist – nicht, weil es technisch besser war
+- **Fehlgeschlagene Lösungen sind Lernraum:** Der nicht funktionierende erste Ansatz hat den Weg zur robusten Lösung geebnet
+- **Automatisierung in kleinen Schritten:** Ein simpler E-Mail-Workflow schafft Vertrauen für größere Automatisierung
 
+## Screenshots
 
-Vollständig digitaler, transparenter Urlaubsantrag – von der Beantragung bis zur Genehmigung ohne einen einzigen Papierbogen oder Suchlauf
-
-
-
-Die Prozessschritte, die vorher per Hand gepflegt werden mussten, entfallen komplett: [[ggf. „von ca. X Minuten pro Antrag auf 0"]
-
-
-
-Höhere Akzeptanz im Team, weil der Prozess dort stattfindet, wo alle ohnehin arbeiten: in Teams
-
-
-
-Das Scheitern der alten Lösung hat mir gezeigt: Prozessexzellenz ohne Nutzerakzeptanz ist wertlos – genau daran arbeite ich
-
-Lessons Learned
-
-
-
-
-
-Change beginnt bei der Nutzererfahrung: Absentify wurde angenommen, weil es in Teams integriert ist – nicht, weil es technisch besser war
-
-
-
-Fehlgeschlagene Lösungen sind Lernraum: Der nicht funktionierende erste Ansatz hat den Weg zur robusten Lösung geebnet
-
-
-
-Automatisierung in kleinen Schritten: Ein simpler E-Mail-Workflow schafft Vertrauen für größere Automatisierung
+*Anonymisierte Screenshots folgen.*
