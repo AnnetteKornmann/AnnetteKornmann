@@ -5,7 +5,9 @@
 
 ## Ausgangslage
 
-Ich habe angeregt die klassische Telefonanlage auf VoIP umzustellen um unabhängig vom Arbeitsort eine gleichbleibende Kundenerfahrung und Erreichbarkeit herzustellen. Ein Vorhaben, das auf dem Papier nur Technik ist – im Alltag aber jeden einzelnen Arbeitsplatz verändert: neue Geräte, neue Bedienung, neue Gewohnheiten bei einer Technik, die täglich genutzt wird. Hinzu kam eine große Skepsis der Geschäftsleitung die mit dieser Technologie bisher nicht vertraut war.
+Ich habe angeregt die klassische Telefonanlage auf VoIP umzustellen um unabhängig vom Arbeitsort eine gleichbleibende Kundenerfahrung und Erreichbarkeit herzustellen. 
+Ein Vorhaben, das im Alltag jeden einzelnen Arbeitsplatz verändert: neue Geräte, neue Bedienung, neue Gewohnheiten bei einer Technik, die täglich genutzt wird. 
+Hinzu kam eine große Skepsis der Geschäftsleitung die mit dieser Technologie bisher nicht vertraut war.
 
 ## Meine Rolle
 
