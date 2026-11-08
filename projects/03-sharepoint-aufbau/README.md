@@ -5,20 +5,20 @@
 
 ## Ausgangslage
 
-[[Wie war es vorher? z. B.: Informationen verstreut in E-Mails und Netzwerkordnern, veraltete Intranet-Struktur, niemand fand aktuelle Dokumente oder Ansprechpartner.]]
+Im Rahmen einer konzernweiten Strategie zur Reduzierung des E-Mail-Aufkommens sollte ein zentrales SharePoint-Intranet als primäre Informations- und Kommunikationsquelle etabliert werden.
 
 ## Meine Rolle
 
-Als SharePoint-Seiten-Erstellerin habe ich nicht nur Seiten gepflegt, sondern die Informationsarchitektur aktiv mitgestaltet: Ich habe [[Konzeption, Aufbau und Pflege]] von Team- und Kommunikationsseiten übernommen, Strukturen für [[Abteilung/Team/Organisation]] aufgebaut und die Kolleginnen und Kollegen dabei begleitet, die neuen Seiten im Alltag zu nutzen.
+Als Assistentin des Entwicklungsleiters habe ich den SharePoint-Bereich für die Technology-Abteilung eigenverantwortlich konzipiert, grafisch gestaltet und inhaltlich umgesetzt.
 
 ## Lösung
 
 Ein strukturierter SharePoint-Aufbau, der aus einer Dateiablage einen echten Informationsraum macht:
 
-1. **Seitenarchitektur:** Übersichtliche Startseiten mit News-, Quick-Links- und Inhaltsbereichen – statt endloser Ordnerlisten
-2. **Zentrale Ablage:** Dokumentenbibliotheken mit klarer Ordnerlogik und [[ggf. Metadaten/Versionierung]]
-3. **Aktualität als Verantwortung:** Regelmäßige Pflege und Weiterentwicklung der Seiten – ein Intranet lebt von aktuellen Inhalten
-4. **Nähe zu den Nutzenden:** Ich habe die Seiten dort gestaltet, wo die Menschen arbeiten – mit Teams-Integration und [[z. B. Zielseiten für Abteilungen]]
+1. **Anwesenheits- & Transparenzkalender:** Implementierung eines Kalenders zur Vor-Ort-Präsenz der Abteilungsleitung zur vereinfachten Abstimmung für Mitarbeitende.
+2. **Stakeholder-Einbindung:** Integration eines öffentlichen Sprint-Review-Kalenders zur transparenten Information von Schnittstellen außerhalb des Projektteams.
+3. **Content- & Wissensmanagement:** Regelmäßige Aufbereitung und Bereitstellung von Berichten aus Team-Meetings.
+4. **User Adoption & Engagement:** Gezielte Förderung von Interaktivität (Kommentare, Likes) zur Steigerung der Plattform-Akzeptanz innerhalb der Abteilung.
 
 ```mermaid
 flowchart TD
