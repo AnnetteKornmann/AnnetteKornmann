@@ -29,7 +29,8 @@ Ich übersetze zwischen Fachbereich, Geschäftsführung und IT – und bringe Me
 ## 📈 Aktuelle Lernpfade
 
 - Microsoft Learn (laufend, mehrere Badges) – [Mein Learn-Profil](https://learn.microsoft.com/de-de/users/AnnetteKornmann-7380)
-- Vorbereitung: **AB-900** (M365 Fundamentals)
+- Vorbereitung: **MS-900** (M365 Fundamentals)
+- Vorbereitung: **AZ-900** (Cloud Fundamentals)
 - Vorbereitung: **PSM I** (scrum.org)
 - Vertiefung: Power Automate, Change Management, Prozessoptimierung
 
