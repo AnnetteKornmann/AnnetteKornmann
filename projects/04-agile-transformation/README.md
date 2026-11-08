@@ -1,19 +1,20 @@
 # Agile Begleitung eines Management-Teams
 
 **Bereich:** Change Management · Agile Arbeitsweisen · Transformation
-**Organisation:** [[MDBM]]
+**Organisation:** Kardex
 
 ## Ausgangslage
 
-Ein Management-Team sollte von klassischen, hierarchischen Arbeitsweisen zu agileren Formen der Zusammenarbeit finden –[[z. B.: lange Abstimmungsketten, wenig Transparenz über laufende Themen, Entscheidungen zogen sich über Wochen hin]]. Die Herausforderung: Die Menschen im Team waren erfahren und erfolgreich in ihrer gewohnten Art zu arbeiten – Veränderung durfte hier nicht als Belehrung ankommen.
+Es gab die strategische Entscheidung abteilungsweit vom klassischen zum agilen Projektmanagement zu wechseln, um Leadzeiten zu verkürzen. Nach einem abteilungsübergreifenden Kick Off wurden Pilot Teams ausgewählt. Eins davon war das Management-Team. Bisher gab es lange Abstimmungsketten, lange Statusmeetings und wenig Transparenz über laufende Themen. Die Herausforderung: Die Menschen im Team waren erfahren und erfolgreich in ihrer gewohnten Art zu arbeiten – Veränderung durfte hier nicht als Belehrung ankommen. Das Team bekam einen erfahrenen agile Coach zur Seite gestellt.
 
 ## Meine Rolle
 
-Als rechte Hand des Agile Coachs habe ich die Transformation praktisch mitgetragen – und dabei genau die Schnittstelle besetzt, die oft fehlt: zwischen Methodik und Alltag. Konkret:
+Ich habe die agile Transformation an der Schnittstelle zwischen Organisation, Methoden-Adaption und Praxisbegleitung unterstützt:
 
-- **Organisation einer Großveranstaltung:** Ich habe einen Workshop für **150 Teilnehmende** geplant und durchgeführt – von der Konzeption über die operative Vorbereitung bis zur Nachbereitung
-- **Begleitung im Alltag:** Ich habe das Management-Team bei der Etablierung agiler Rituale unterstützt, damit Methoden nicht in der Moderation stecken bleiben, sondern im Arbeitsalltag ankommen
-- **Tool-Enablement:** Mit [[Miro, Confluence und/oder Jira]] habe ich die passenden Werkzeuge eingeführt, damit Transparenz und Zusammenarbeit auch digital gelebt werden
+1. **Event- & Logistik-Management:** Komplette organisatorische und technische Vor- und Nachbereitung des Großgruppen-Kick-offs mit 150 Teilnehmenden.
+2. **Agiles Mindset & Continuous Learning:** Aktives Mitglied in der agile Community of Practice (CoP). Durch den stetigen Austausch mit Scrum Mastern und Agile Coaches habe ich mir die Scrum-Methodik sowie die Haltung (Selbstorganisation, Wertschätzung, Agilität) aneignet.
+3. **Operatives Coaching-Enablement:** Enge Zusammenarbeit mit dem Agile Coach bei der Konzeption und praktischen Umsetzung neuer Formate für das Management-Team.
+4. **Transparenz & Tool-Struktur:** Aufbau und Pflege von Miro-Boards sowie Confluence-Strukturen, um Abteilungs-Pipelines und Abstimmungsketten nachhaltig zu vereinfachen.
 
 ## Lösung
 
