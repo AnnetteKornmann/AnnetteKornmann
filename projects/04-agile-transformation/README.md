@@ -12,9 +12,9 @@ Es gab die strategische Entscheidung abteilungsweit vom klassischen zum agilen P
 Ich habe die agile Transformation an der Schnittstelle zwischen Organisation, Methoden-Adaption und Praxisbegleitung unterstützt:
 
 1. **Event- & Logistik-Management:** Komplette organisatorische und technische Vor- und Nachbereitung des Großgruppen-Kick-offs mit 150 Teilnehmenden.
-2. **Agiles Mindset & Continuous Learning:** Aktives Mitglied in der agile Community of Practice (CoP). Durch den stetigen Austausch mit Scrum Mastern und Agile Coaches habe ich mir die Scrum-Methodik sowie die Haltung (Selbstorganisation, Wertschätzung, Agilität) aneignet.
+2. **Agiles Mindset & Continuous Learning:** Aktives Mitglied in der agile Community of Practice (CoP). Durch den stetigen Austausch mit Scrum Mastern und Agile Coaches habe ich mir die Scrum-Methodik sowie die Haltung (Selbstorganisation, Wertschätzung, Agilität) angeeignet.
 3. **Operatives Coaching-Enablement:** Enge Zusammenarbeit mit dem Agile Coach bei der Konzeption und praktischen Umsetzung neuer Formate für das Management-Team.
-4. **Transparenz & Tool-Struktur:** Aufbau und Pflege von Miro-Boards sowie Confluence-Strukturen, um Abteilungs-Pipelines und Abstimmungsketten nachhaltig zu vereinfachen.
+4. **Transparenz & Tool-Struktur:** Aufbau und Pflege von Miro-Boards sowie Jira und Confluence-Strukturen, um Abteilungs-Pipelines und Abstimmungsketten nachhaltig zu vereinfachen.
 
 ## Lösung
 
