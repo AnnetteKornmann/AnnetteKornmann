@@ -30,9 +30,7 @@ flowchart TD
 
 ## Ergebnis
 
-- [[Konkretisieren: z. B. „Wichtige Dokumente und Ansprechpartner sind auf einer zentralen Seite findbar statt in E-Mail-Verläufen zu verschwinden"]]
-- [[Zahlen, wenn möglich: Anzahl Seiten/Bibliotheken, Nutzer, Zeitersparnis]]
-- Ein Intranet-Bereich, den Menschen tatsächlich aufrufen – weil er aktuell und relevant ist
+Transparentere Schnittstellenkommunikation, Reduzierung von E-Mail-Verteilern und erfolgreiche Akzeptanzsteigerung für Modern-Workplace-Tools in der Technology-Abteilung.
 
 ## Lessons Learned
 
