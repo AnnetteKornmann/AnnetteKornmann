@@ -22,7 +22,7 @@ Statt Methodenschulung „von oben" haben wir Transformation erfahrbar gemacht:
 
 ```mermaid
 flowchart TD
-    A["Workshop mit 150 Teilnehmenden"] --> B["Agiles Arbeiten live erleben"]
+    A["Kick Off Workshop und Management Team als Pilot"] --> B["Agiles Arbeiten live erleben"]
     B --> C["Rituale im Management-Team etablieren"]
     C --> D["Digitale Tools einführen"]
     D --> E["Transparenz über Themen und Fortschritt"]
