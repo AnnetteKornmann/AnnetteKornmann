@@ -5,7 +5,7 @@
 
 ## Ausgangslage
 
-Urlaubsanträge liefen vorher manuell: [z. B. per E-Mail, Papierform, Absprache mit Vorgesetzten]]. Der Prozess war intransparent – niemand hatte auf einen Blick einen Überblick über genehmigte Abwesenheiten, Anträge gingen zwischen Abteilungen verloren, und die Anbindung an Kalender und Urlaubslisten musste per Hand gepflegt werden. Ein früherer Lösungsversuch über eine SharePoint-Liste mit [[Flowmaster / Standard-Workflow]] funktionierte nicht zuverlässig und wurde von den Mitarbeitenden nicht angenommen.
+Urlaubsanträge liefen vorher manuell per E-Mail, Papierform, Absprache mit Vorgesetzten. Der Prozess war intransparent – niemand hatte auf einen Blick einen Überblick über genehmigte Abwesenheiten, Anträge gingen zwischen Abteilungen verloren, und die Anbindung an Kalender und Urlaubslisten musste per Hand gepflegt werden. Ein früherer Lösungsversuch über eine SharePoint-Liste mit einem Standard-Workflow funktionierte nicht zuverlässig und wurde von den Mitarbeitenden nicht angenommen, weil das Set-up zu technisch war und die Mitarbeiter den Zusammenhang zwischen Ablageort auf Sharepoint und Automatisierung des Vorgangs nicht nachvollziehen konnten.
 
 ## Meine Rolle
 
@@ -15,10 +15,9 @@ Ich habe den Prozess von Grund auf analysiert und mit **Absentify** neu aufgebau
 
 Digitale Urlaubsanträge über Absentify in Microsoft Teams:
 
-1. **Antrag** direkt in Teams/Outlook gestellt – inkl. automatischer Resturlaubsanzeige
-2. **Genehmigung** durch Führungskraft per Knopfdruck (mobile und am Desktop)
-3. **Automatische Integration**: Genehmigungen landen automatisch im Kalender und in der Urlaubsübersicht – ohne manuelle Nachpflege
-4. Unterstützend habe ich mit **Power Automate** einen Mini-Workflow gebaut, der bei neuen Einträgen in einer SharePoint-Liste automatisch Benachrichtigungs-E-Mails versendet – als Basis für weitere Automatisierungsideen im Team
+1. **Antrag** direkt in Teams gestellt – inkl. automatischer Resturlaubsanzeige
+2. **Genehmigung** durch Führungskraft per Knopfdruck in Outlook
+3. **Automatische Integration**: Genehmigungen landen automatisch in der Urlaubsübersicht – ohne manuelle Nachpflege
 
 ```mermaid
 flowchart LR
@@ -30,8 +29,8 @@ flowchart LR
 ## Ergebnis
 
 - Vollständig digitaler, transparenter Urlaubsantrag – von der Beantragung bis zur Genehmigung ohne einen einzigen Papierbogen oder Suchlauf
-- Die Prozessschritte, die vorher per Hand gepflegt werden mussten, entfallen komplett: [[ggf. „von ca. X Minuten pro Antrag auf 0"]
-- Höhere Akzeptanz im Team, weil der Prozess dort stattfindet, wo alle ohnehin arbeiten: in Teams
+- Die Prozessschritte, die vorher per Hand gepflegt werden mussten, entfallen komplett: Einsparung von ca. 10 Stunden pro Monat
+- Höhere Akzeptanz im Team, weil der Prozess grafisch so aufgebaut ist dass ihn alle in Teams finden und leicht bedienen können
 - Das Scheitern der alten Lösung hat mir gezeigt: Prozessexzellenz ohne Nutzerakzeptanz ist wertlos – genau daran arbeite ich
 
 ## Lessons Learned
