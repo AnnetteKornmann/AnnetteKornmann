@@ -1,7 +1,7 @@
 # Urlaubsantragsprozess mit Absentify
 
 **Bereich:** Prozessautomatisierung · Power Automate · SharePoint · Microsoft Teams
-**Organisation:** MDBM
+**Organisation:** mdbm
 
 ## Ausgangslage
 
