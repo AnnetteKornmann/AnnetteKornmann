@@ -36,15 +36,12 @@ flowchart TD
 
 - Ein Management-Team, das seine Zusammenarbeit aktiv hinterfragt und weiterentwickelt
 - 150 Teilnehmende haben in einem Workshop erlebt, dass Veränderung nicht bedrohlich, sondern bereichernd sein kann
-- [[Wenn möglich ergänzen: z. B. „Meeting-und Abstimmungsaufwand spürbar reduziert", „Team hat eigenständig Retrospektiven weitergeführt"]]
 - Für mich persönlich die Bestätigung: Transformation ist zuallererst menschliche Arbeit – und genau da ist meine Stärke
 
 ## Lessons Learned
 
 - **Transformation braucht Vertrauenspersonen:** Methoden kommen an, wenn sie von jemandem eingeführt werden, der den Alltag der Menschen kennt
 - **Große Formate wirken durch Erfahrung:** 150 Menschen gemeinsam etwas erleben zu lassen, schafft mehr Akzeptanz als jede Präsentation
-- **Der Alltag ist die eigentliche Transformation:** Der Workshop war der Startpunkt – entscheidend war das Dranbleiben in den Wochen danach
+- **Der Alltag ist die eigentliche Transformation:** Der Workshop war der Startpunkt – entscheidend war das Dranbleiben in den Wochen und Monaten danach
 
-## Screenshots
 
-*Anonymierte Fotos/Impressionen vom Workshop folgen.*
