@@ -31,11 +31,11 @@ Mein Ansatz dabei: Technikeinführung ist Beziehungsarbeit. Wer Fragen stellen d
 ## Ergebnis
 
 - Die Umstellung habe ich in **Personalunion aus einer Hand** verantwortet: Technik, Einführung, Schulung, Support
-- [[Konkretisieren, z. B. „[[X]] Endgeräte/Mitarbeitende umgestellt", „Betrieb lief ohne größere Ausfälle weiter"]]
-- Bestätigung meines Leitbilds: Transformation gelingt, wenn die Begleitung der Menschen Teil des Projektplans ist – nicht sein Nachtrag
+- 12 Endgeräte/Mitarbeitende umgestellt, Betrieb lief ohne Ausfälle weiter
+- Transformation gelingt, wenn die Begleitung der Menschen Teil des Projektplans ist
 
 ## Lessons Learned
 
-- **End-to-end-Verantwortung schärft den Blick:** Wer Technik, Einführung und Support verantwortet, plant von Anfang an mitdenkend für die Menschen – nicht nachträglich
-- **Telefonie ist Gefühlssache:** Eine „kleine" Technikumstellung berührt den Alltag jedes Einzelnen – Begleitung ist kein Nice-to-have
-- **Zielgruppengerecht schulen:** Ein Training für alle passt für niemanden
+- **End-to-end-Verantwortung schärft den Blick:** Wer Technik, Einführung und Support verantwortet, plant von Anfang an mitdenkend für die, die später mit dem Tool arbeiten sollen
+- **Telefonie ist Gefühlssache:** Eine „kleine" Technikumstellung berührt den Alltag jedes Einzelnen, Begleitung ist kein Nice-to-have
+
