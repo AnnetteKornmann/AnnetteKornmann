@@ -1,7 +1,7 @@
 # Poolfahrzeug-Buchung mit Power Apps
 
 **Bereich:** Low-Code-Entwicklung · Power Apps · SharePoint
-**Organisation:** MDBM
+**Organisation:** mdbm
 
 ## Ausgangslage
 
