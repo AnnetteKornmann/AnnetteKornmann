@@ -5,7 +5,7 @@
 
 ## Ausgangslage
 
-Die firmeneigenen Poolfahrzeuge wurden bisher über telefonische Absprachen gebucht und manuell im Team Kalender eingetragen. Die Folge: niemand wusste zuverlässig, welches Fahrzeug wann frei ist, mit einer größeren Mitarbeiterzahl wurden mündliche Absprachen umständlicher und die Pflege der Übersicht lag bei einer einzelnen Person. Ein klassischer Fall für eine einfache, digitale Lösung – ohne teure Individualentwicklung.
+Die firmeneigenen Poolfahrzeuge wurden bisher über telefonische Absprachen gebucht und manuell im Team Kalender eingetragen. Die Folge: niemand wusste zuverlässig, welches Fahrzeug wann frei ist, mit einer größeren Mitarbeiterzahl wurden mündliche Absprachen umständlicher und die Pflege der Übersicht lag bei einer einzelnen Person. Ein klassischer Fall für eine einfache, digitale Lösung.
 
 ## Meine Rolle
 
@@ -17,8 +17,9 @@ Eine Canvas-App als zentrale Buchungsplattform für alle Poolfahrzeuge:
 
 1. **Übersicht:** Auf einen Blick sichtbar, welches Fahrzeug in welchem Zeitraum frei oder belegt ist
 2. **Buchung:** Start, Ende und Zweck in einer einfachen Maske – wenige Sekunden pro Buchung
-3. **Datenbasis:** SharePoint-Liste im Hintergrund – [[bitte prüfen/ergänzen, ob das stimmt]]
-4. **Verlässlichkeit:** Doppelbuchungen werden durch die Zeitlogik [[bzw. durch Validierung]] ausgeschlossen
+3. **Datenbasis:** SharePoint-Liste im Hintergrund
+4. **Verlässlichkeit:** Doppelbuchungen werden durch die Zeitlogik ausgeschlossen
+5. **Datenanalyse:** Perspektivisch kann zu einem späteren Zeitpunkt eine Analyse der Auslastung gemacht und eine Anpassung der Fahrzeuganzahl vorgenommen werden 
 
 ```mermaid
 flowchart LR
@@ -30,10 +31,10 @@ flowchart LR
 
 ## Ergebnis
 
-- Doppelbuchungen praktisch ausgeschlossen, [[wenn möglich mit Zahl, z. B. „von X Vorfällen pro Monat auf 0"]]
-- Buchung dauert [[wenige Sekunden statt bisher ca. X Minuten mit Rückfragen]]
+- Doppelbuchungen praktisch ausgeschlossen
+- Buchung dauert wenige Sekunden, jeder Mitarbeiter kann sehen ob ein bestimmtes Fahrzeug frei ist
 - Entlastung der Verwaltung: keine manuelle Pflege einer zentralen Liste mehr
-- Das Team hat eine Lösung im Werkzeugkasten gesehen, die es vorher für „Programmierer-Sachen" hielt – Low-Code demystifiziert
+- Daten werden strukturiert gesammelt und stehen für spätere Analysen zur Verfügung 
 
 ## Lessons Learned
 
