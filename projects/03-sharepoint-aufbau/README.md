@@ -38,6 +38,4 @@ Transparentere Schnittstellenkommunikation, Reduzierung von E-Mail-Verteilern un
 - **Ein Intranet ist nie fertig:** Seiten brauchen regelmäßige Pflege, sonst verlieren sie Vertrauen
 - **Ordnung entsteht durch Nutzung:** Die beste Struktur nützt nichts, wenn sie am Arbeitsalltag der Menschen vorbeigeht
 
-## Screenshots
 
-*Anonymisierte Screenshots folgen.*
