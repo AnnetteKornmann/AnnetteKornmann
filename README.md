@@ -14,7 +14,7 @@ Ich übersetze zwischen Fachbereich, Geschäftsführung und IT – und bringe Me
 | [Poolfahrzeug-Buchung mit Power Apps](./projects/02-poolfahrzeug-power-apps/README.md) | Power Apps, Power Automate | 📝 In Dokumentation |
 | [SharePoint-Seiten- & Infrastrukturaufbau](./projects/03-sharepoint-aufbau/README.md) | SharePoint, Information Architecture | 📝 abgeschlossen |
 | [Agile Begleitung eines Management-Teams](./projects/04-agile-transformation/README.md) | Change & Transformation | 📝 abgeschlossen |
-| (VoIP Einfuehrung) (./projects/05-voip-einfuehrung/README.md) 
+| [VoIP Einführung] (./projects/05-voip-einfuehrung/README.md) 
 |
 
 ## 🧰 Skill-Schwerpunkte
