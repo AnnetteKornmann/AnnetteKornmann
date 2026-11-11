@@ -10,10 +10,11 @@ Ich übersetze zwischen Fachbereich, Geschäftsführung und IT – und bringe Me
 
 | Projekt | Bereich | Status |
 |---|---|---|
-| [Urlaubsantragsprozess mit Absentify](./projects/01-urlaubsantrag-absentify/README.md) | Power Automate, Prozessautomatisierung | 📝 In Dokumentation |
+| [Urlaubsantragsprozess mit Absentify](./projects/01-urlaubsantrag-absentify/README.md) | Power Automate, Prozessautomatisierung | 📝 abgeschlossen |
 | [Poolfahrzeug-Buchung mit Power Apps](./projects/02-poolfahrzeug-power-apps/README.md) | Power Apps, Power Automate | 📝 In Dokumentation |
-| [SharePoint-Seiten- & Infrastrukturaufbau](./projects/03-sharepoint-aufbau/README.md) | SharePoint, Information Architecture | 📝 In Dokumentation |
-| [Agile Begleitung eines Management-Teams](./projects/04-agile-transformation/README.md) | Change & Transformation | 📝 In Dokumentation |
+| [SharePoint-Seiten- & Infrastrukturaufbau](./projects/03-sharepoint-aufbau/README.md) | SharePoint, Information Architecture | 📝 abgeschlossen |
+| [Agile Begleitung eines Management-Teams](./projects/04-agile-transformation/README.md) | Change & Transformation | 📝 abgeschlossen |
+|
 
 ## 🧰 Skill-Schwerpunkte
 
