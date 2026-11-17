@@ -1,3 +1,4 @@
+<img width="2912" height="1482" alt="Screenshot 2026-11-17 101010" src="https://github.com/user-attachments/assets/d3825e41-45cd-4bb9-8198-c9e1390844ea" />
 # Poolfahrzeug-Buchung mit Power Apps
 
 **Bereich:** Low-Code-Entwicklung · Power Apps · SharePoint
